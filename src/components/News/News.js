@@ -21,7 +21,7 @@ function News(props) {
     return string.charAt(0).toUpperCase() + string.slice(1);
   };
 
-  document.title = `${capitaLize(props.category)} - News App`;
+  document.title = `${capitaLize(props.category)} - News Aggregator`;
 
   const updatenews = async () => {
     try {
