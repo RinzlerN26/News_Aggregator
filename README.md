@@ -4,8 +4,8 @@ A React.js news app with dynamic news fetching using News API.
 
 ### Built With
 
-* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-* ![Bootstrao](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+* ![React]((https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000))
+* ![Bootstrao](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000000)
 
 ### Prerequisites
 
@@ -21,7 +21,7 @@ A React.js news app with dynamic news fetching using News API.
    ```sh
    git clone https://github.com/RinzlerN26/News_Aggregator.git
    ```
-3. Install NPM packages
+3. Install npm packages
    ```sh
    npm install
    ```
