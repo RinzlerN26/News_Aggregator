@@ -33,7 +33,7 @@ A React.js news app with dynamic news fetching using News API.
    ```
 6. Run the application
     ```sh
-   npm run start http://localhost:8080.
+   npm run start http://localhost:8080
    ```  
 
 
