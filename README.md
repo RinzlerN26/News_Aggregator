@@ -4,7 +4,7 @@ A React.js news app with dynamic news fetching using News API.
 
 ### Built With
 
-* ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)
+* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 * ![Bootstrao](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000000)
 
 ### Prerequisites
