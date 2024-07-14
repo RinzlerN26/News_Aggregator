@@ -16,22 +16,22 @@ A React.js news app with dynamic news fetching using News API.
 
 ### Installation
 
-1. Get a API Key at [News API](https://newsapi.org/)
+1. Get a API Key at [News API](https://newsapi.org/).
    
-2. Clone the repo
+2. Clone the repo.
    ```sh
    git clone https://github.com/RinzlerN26/News_Aggregator.git
    ```
    
-3. Install npm packages
+3. Install npm packages.
    ```sh
    npm install
    ```
-4. Enter your API in `src/config/api.js`
+4. Enter your API in `src/config/api.js`.
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-6. Run the application
+6. Run the application.
     ```sh
    npm run start
    ```  
