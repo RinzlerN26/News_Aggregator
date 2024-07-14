@@ -6,8 +6,8 @@ A React.js news app with dynamic news fetching using News API.
 
 ### Built With
 
-* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-* ![Bootstrao](https://img.shields.io/badge/Bootstrap-05054B?style=for-the-badge&logo=bootstrap)
+* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+* ![Bootstrao](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 ### Prerequisites
 
@@ -17,8 +17,6 @@ A React.js news app with dynamic news fetching using News API.
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [News API](https://newsapi.org/)
 2. Clone the repo
@@ -33,6 +31,10 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+5. Run the application
+    ```sh
+   npm run start http://localhost:8080.
+   ```  
 
 
 
@@ -52,6 +54,5 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-npm i
-npm run start
-http://localhost:8080.
+
+
