@@ -1,7 +1,5 @@
 # News Aggregator
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 A React.js news app with dynamic news fetching using News API. 
 
 ### Built With
